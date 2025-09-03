@@ -52,7 +52,7 @@ The goal is to support **hospital management** in enhancing ⚙️ **operational
 - 🧾 **Procedures Used:** 52
 
 ## 🖼️ Dashboard Preview 
-![Hospital Patients Record Dashboard](Dashboard_massach)
+![Hospital Patients Record Dashboard](Dashboard_Massach..png)
 
 ## ❓ Key Business Questions Answered  
 - 📈 What are the **trends** in patient admissions and readmissions over time?  
