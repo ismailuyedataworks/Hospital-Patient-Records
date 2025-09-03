@@ -1,7 +1,7 @@
 # 🏥👥📋 Hospital-Patient-Records
 
 ## 🏥 Project Title  
-<img width="25" height="23" alt="image" src="https://github.com/user-attachments/assets/60b3c3a9-f182-4f5b-85f0-eeb23ada5e92" /> **Massachusetts General Hospital – Patient Records Performance Analysis**  
+#<img width="24" height="22" alt="image" src="https://github.com/user-attachments/assets/60b3c3a9-f182-4f5b-85f0-eeb23ada5e92" /> **Massachusetts General Hospital – Patient Records Performance Analysis**  
 
 ## 📘 Project Overview  
 This project leverages **synthetic healthcare data** representing ~1,000 patients from **Massachusetts General Hospital** between **2011–2022**.  
