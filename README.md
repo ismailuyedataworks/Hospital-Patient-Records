@@ -38,7 +38,7 @@ The goal is to analyze healthcare performance trends and uncover patterns that c
 
 ## 🌐 Live Dashboard  
 Experience the interactive dashboard live here:
-[Click to view the live dashboard](https://1drv.ms/x/c/a145471cdb65b729/ET0vXtf3-jpOmitFPfvfSXUB64-N09iShf5wZdZ5mzGU-A?e=TMGh2O)
+[Click to view the live dashboard]()
 
 ---
 
